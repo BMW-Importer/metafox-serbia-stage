@@ -1,13 +1,13 @@
 {
   "mappings": [
-    "/content/metafox/rs/sr/:/",
-    "/content/metafox/rs/sr/placeholders:/placeholders.json",
-    "/content/metafox/rs/sr/metadata:/metadata.json",
-    "/content/metafox/rs/sr/models-overview:/models-overview.json",
-    "/content/metafox/rs/sr/model-filters:/model-filters.json",
-    "/content/metafox/rs/sr/concept-cars-details:/concept-cars-details.json",
-    "/content/metafox/masters/rs/sr/technical-data:/technical-data.json",
+    "/content/metafox/rs/:/",
+    "/content/metafox/rs/sr/placehlders:/sr/placeholders.json",
+    "/content/metafox/rs/metadata:/metadata.json",
+    "/content/metafox/rs/sr/models-overview:/sr/models-overview.json",
+    "/content/metafox/rs/sr/model-filters:/sr/model-filters.json",
+    "/content/metafox/rs/sr/concept-cars-details:/sr/concept-cars-details.json",
+    "/content/metafox/masters/rs/sr/technical-data:/sr/technical-data.json",
     "/content/dam/metafox/:/assets/"
 ],
-  "includes": ["/content/metafox/rs/sr/","/content/dam/metafox/"]
+  "includes": ["/content/metafox/rs/","/content/dam/metafox/"]
 }
