@@ -9,6 +9,7 @@
     "/content/metafox/masters/rs/sr/technical-data:/sr/technical-data.json",
     "/content/metafox/rs/headers:/.helix/headers.json",
     "/content/dam/metafox/:/assets/"
+    
 ],
   "includes": ["/content/metafox/rs/","/content/dam/metafox/"]
 }
