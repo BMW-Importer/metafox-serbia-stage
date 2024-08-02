@@ -7,6 +7,7 @@
     "/content/metafox/rs/sr/model-filters:/sr/model-filters.json",
     "/content/metafox/rs/sr/concept-cars-details:/sr/concept-cars-details.json",
     "/content/metafox/masters/rs/sr/technical-data:/sr/technical-data.json",
+    "/content/metafox/rs/headers:/.helix/headers.json",
     "/content/dam/metafox/:/assets/"
 ],
   "includes": ["/content/metafox/rs/","/content/dam/metafox/"]
